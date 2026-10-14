@@ -1,4 +1,4 @@
-# LM1875 Bridge Tied Load Amplifier with Receiver
+# LM1875 Bridge Tied Load Amplifier with Receiver [Single Rail Version]
 <br>
 <p align="center"><strong>Introduction</strong></p>
 Below is my design for a simple, modular LM1875 bridge-tied-load (BTL) sound system. It is a practical analog amplifier system that is easy to build, has great performance  and makes for a great analog system design learning project. <br>
